@@ -10,6 +10,21 @@ Founder & Head Developer @ Lunar Game Studios
 Lua (Intermediate)  
 C++ (Bare Basics) 
 
+# Rewards
+
+Slowest Roblox Developer 2017  
+Slowest Roblox Developer 2020  
+Dumbest Roblox Developer 2020  
+Slowest Roblox Developer 2021  
+Dumbest Roblox Developer 2021  
+Slowest Roblox Developer 2022  
+Dumbest Roblox Developer 2022  
+Slowest Roblox Developer 2023  
+Dumbest Roblox Developer 2023
+
+Slowest Roblox Developer for 3 consecutive years  
+Dumbest Roblox Developer for 3 consecutive years
+
 # What's the problem?
 
 It's been almost 6 years since I first started to learn Lua and programming in general, of course most of the time was spent lollygaggin rather than actually programming/learning to, or else I would be a decent developer!  
