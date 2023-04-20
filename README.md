@@ -1,7 +1,22 @@
-# Wannabe Roblox Developer
+# Wannabe Developer
 
-Head Developer @ The Ghetto Game (Roblox)  
-Ex-Developer @ FUSION ENTERTAINMENT (Roblox)  
-Founder/Head Developer @ Lunar Game Studios (Defold, Roblox & Unreal)
+Head Developer @ The Ghetto Game  
+Ex-Developer @ FUSION ENTERTAINMENT  
+Founder & Head Developer @ Sky360  
+Founder & Head Developer @ Lunar Game Studios  
 
-# Will finish updating this later, too lazy rn. 
+# Languages
+
+Lua (Intermediate)  
+C++ (Bare Basics) 
+
+# What's the problem?
+
+It's been almost 6 years since I first started to learn Lua and programming in general, of course most of the time was spent lollygaggin rather than actually programming/learning to, or else I would be a decent developer!  
+What's the problem you may ask? I do not know. I've spent so much time trying to learn the past year or two at full speed but haven't gotten that far. I still have problems with common issues that most developers would fix or get around quite easily.  
+Maybe I just have a difficulty learning or programming isn't for me. If that's the case then it really sucks since I am extremely interested in getting better at programming and feel quite gravitated towards it.  
+Anyways basically if anyone would like to help out please feel free to message me, I cannot seem to unlock the code in my brain to learn to code. If you have any tips please share them with me if you are willing to.
+
+**THANK YOU**
+
+P.S: To my two great friends that have helped me with a few things here and there I give you a personal thank you. You do not understand how much it means to me, especially for you to waste your time with me.  
