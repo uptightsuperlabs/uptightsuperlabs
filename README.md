@@ -1,29 +1,27 @@
 # Wannabe Developer
 
-Head Developer @ The Ghetto Game  
-Ex-Developer @ FUSION ENTERTAINMENT  
-Founder & Head Developer @ Sky360  
-Founder & Head Developer @ Lunar Game Studios  
+- 🛠️👷 Head Developer @ The Ghetto Game  
+- 🛠️ Ex-Developer @ FUSION ENTERTAINMENT  
 
 # Languages
 
-Lua (Intermediate)  
-C++ (Bare Basics) 
+- 🤓 **Lua** (Intermediate)  
+- 🤓 **C++** (Bare Basics) 
 
 # Rewards
 
-Slowest Roblox Developer 2017  
-Slowest Roblox Developer 2020  
-Dumbest Roblox Developer 2020  
-Slowest Roblox Developer 2021  
-Dumbest Roblox Developer 2021  
-Slowest Roblox Developer 2022  
-Dumbest Roblox Developer 2022  
-Slowest Roblox Developer 2023  
-Dumbest Roblox Developer 2023
+- 🏆 Slowest Roblox Developer 2017 🏆
+- 🏆 Slowest Roblox Developer 2020 🏆
+- 🏆 Dumbest Roblox Developer 2020 🏆
+- 🏆 Slowest Roblox Developer 2021 🏆
+- 🏆 Dumbest Roblox Developer 2021 🏆
+- 🏆 Slowest Roblox Developer 2022 🏆
+- 🏆 Dumbest Roblox Developer 2022 🏆
+- 🏆 **Slowest Roblox Developer 2023** 🏆
+- 🏆 **Dumbest Roblox Developer 2023** 🏆
 
-Slowest Roblox Developer for 3 consecutive years  
-Dumbest Roblox Developer for 3 consecutive years
+Slowest Roblox Developer for **3** consecutive years  
+Dumbest Roblox Developer for **3** consecutive years
 
 # What's the problem?
 
