@@ -1,3 +1,7 @@
-Founder of Sky360
+# Wannabe Roblox Developer
 
-I like to do random projects here and there don't expect anything grand as 1% of everything made works.
+Head Developer @ The Ghetto Game (Roblox)  
+Ex-Developer @ FUSION ENTERTAINMENT (Roblox)  
+Founder/Head Developer @ Lunar Game Studios (Defold, Roblox & Unreal)
+
+# Will finish updating this later, too lazy rn. 
