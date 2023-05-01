@@ -7,6 +7,7 @@
 
 - 🤓 **Lua** (Intermediate)  
 - 🤓 **C++** (Bare Basics) 
+- 🤓 **C#** (Treading Lightly)
 
 # Rewards
 
