@@ -1,13 +1,15 @@
 # Shittiest Developer to Ever Exist
 
+- 🛠️👷👨‍💼 Manager @ Interline Studios 
+- 🛠️👷👨‍💼 Manager @ Interline Softworks 
 - 🛠️👷 Head Developer @ The Ghetto Game  
 - 🛠️ Ex-Developer @ FUSION ENTERTAINMENT  
 
 # Languages
 
 - 🤓 **Lua** (Intermediate)  
-- 🤓 **C++** (Bare Basics, I can't even write a simple program without issues.)  
-- 🤓 **C#** (Treading Lightly, Learning more day by day.)
+- 🤓 **C++**
+- 🤓 **C**
 
 # Rewards
 
