@@ -1,15 +1,16 @@
 # Shittiest Developer to Ever Exist
 
-- 🛠️👷👨‍💼 Manager @ Interline Studios 
 - 🛠️👷👨‍💼 Manager @ Interline Softworks 
-- 🛠️👷 Head Developer @ The Ghetto Game  
-- 🛠️ Ex-Developer @ FUSION ENTERTAINMENT  
+- 🛠️👷👨‍💼 Manager @ Interline Studios 
+- 🛠️👷 Head Developer @ TheGhettoStudios 
+- 🛠️ Developer @ Hard Knock District 
+- 🛠️ Developer @ Phantom Studios 
 
 # Languages
 
-- 🤓 **Lua** (Intermediate)  
-- 🤓 **C++**
-- 🤓 **C**
+- **Lua** 
+- **C++** 
+- **C**
 
 # Rewards
 
@@ -22,3 +23,5 @@
 - 🏆 Dumbest Developer of 2022 🏆
 - 🏆 **Slowest Developer of 2023** 🏆
 - 🏆 **Dumbest Developer of 2023** 🏆
+
+###### Note - I dislike Python and JavaScript, if you need help with those I know a few poeple that can help you but I personally won't offer much help.
