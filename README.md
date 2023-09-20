@@ -1,16 +1,16 @@
 # Shittiest Developer to Ever Exist
 
-- 🛠️👷👨‍💼 Manager @ Interline Softworks 
-- 🛠️👷👨‍💼 Manager @ Interline Studios 
-- 🛠️👷 Head Developer @ TheGhettoStudios 
-- 🛠️ Developer @ Hard Knock District 
-- 🛠️ Developer @ Phantom Studios 
+A majority of my projects are private or hosted on other accounts/orgs. Studying Computer Science, Foundational Web Design (Boring as fuck) and IT (Advanced). 
+
+- 🛠️👷👨‍💼 Manager @ Interline Softworks  
+- 🛠️👷👨‍💼 Manager @ Interline Studios  
+- 🛠️👷 Head Developer @ TheGhettoStudios  
 
 # Languages
 
-- **Lua** 
-- **C++** 
-- **C**
+- **Assembly (x86-x64)**
+- **C/C++**  
+- **Lua**  
 
 # Rewards
 
@@ -21,7 +21,7 @@
 - 🏆 Dumbest Developer of 2021 🏆
 - 🏆 Slowest Developer of 2022 🏆
 - 🏆 Dumbest Developer of 2022 🏆
-- 🏆 **Slowest Developer of 2023** 🏆
-- 🏆 **Dumbest Developer of 2023** 🏆
-
-###### Note - I dislike Python and JavaScript, if you need help with those I know a few poeple that can help you but I personally won't offer much help.
+- 🏆 Slowest Developer of 2023 🏆
+- 🏆 Dumbest Developer of 2023 🏆
+- 🏆 **Nominated Slowest Developer of 2024** 🏆
+- 🏆 **Nominated Dumbest Developer of 2024** 🏆
