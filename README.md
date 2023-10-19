@@ -1,16 +1,16 @@
 # Shittiest Developer to Ever Exist
 
-A majority of my projects are private or hosted on other accounts/orgs. Studying Computer Science, Foundational Web Design (Boring as fuck) and IT (Advanced). 
+17 year old developer from the United States of America, God bless. I failed 2nd grade...    
+A majority of my projects are private or hosted on other accounts/orgs. Studying Computer Science (Hobby), Foundational Web Design (For High School) and IT (Advanced, For High School). 
 
-- 🛠️👷👨‍💼 Manager @ Interline Softworks  
-- 🛠️👷👨‍💼 Manager @ Interline Studios  
-- 🛠️👷 Head Developer @ TheGhettoStudios  
+- 🛠️👨‍💼 Manager @ Interline Softworks  
+- 🛠️👨‍💼 Manager @ Interline Studios
 
 # Languages
 
 - **Assembly (x86-x64)**
-- **C/C++**  
-- **Lua**  
+- **C/C++ (C++17, C++23)**  
+- **Lua (Luau, LuaJIT)**  
 
 # Rewards
 
