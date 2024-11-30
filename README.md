@@ -1,12 +1,11 @@
 # Shittiest Developer to Ever Exist
 
-17 year old developer from the United States of America, God bless. I failed 2nd grade...    
+18 year old developer from the United States of America, God bless. I failed 2nd grade...    
 A majority of my projects are private or hosted on other accounts/orgs. Studying Computer Science (Hobby) and IT (Advanced, For High School).  
 Currently working on Masonry and a few other private projects. I enjoy low-level programming and reverse engineering software and hardware.  
 
-- 🛠️👨‍💼 Head Developer of Masonry (MCPE Script Extender)
 - 🛠️👨‍💼 Manager @ Interline Softworks  
-- 🛠️👨‍💼 Manager @ Interline Studios
+- 🛠️👨‍💼 Owner @ theghettostudios
 
 # Languages
 
