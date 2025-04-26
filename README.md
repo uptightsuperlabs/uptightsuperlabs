@@ -1,1 +1,1 @@
-I know a bit about programming, I dabble once in awhile. 
+est 2017 - programmer, reverse engineer, and bored - pinkpantheress <3 ppg <3
